@@ -1,6 +1,6 @@
 ## GPT Fine-Tuning using Node.js
 
-This project show how to easily fine-tune a GPT data model. This codebase goes along with the tutorial located [here](https://).
+This project show how to easily fine-tune a GPT data model. This codebase goes along with the tutorial located [here](https://kashif.hashnode.dev/fine-tune-chatgpt).
 
 ### Prerequisites
 
